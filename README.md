@@ -1,1 +1,1 @@
-A simple node application that simulates a digital bank for me to learn how to build local databases. In this application, i am using the node modules Chalk@4.1.2 and Inquirer@8.1.2, as of newer versions have changes that end up breaking the code.
+Um simples projeto em Node.js onde simulo um sistema de banco digital, com salvamento de dados em diretorio local.
